@@ -1,2 +1,2 @@
 # AirBnB_clone
-team project for ALX SE course
+0x00. AirBnB clone - The console
